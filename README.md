@@ -1,10 +1,10 @@
 # Microsoft_movies
 Moringa_school_Project_01_DS
 
-##Overview
+## Overview
 This project aims to provide actionable insights for Microsoft's new movie studio venture through exploratory data analysis. By analyzing trends in the film industry, we seek to identify how movies are performing at the box office, The Numbers and The Movies DB. These insights will aid the stakeholders in making informed decisions about how to go about in the movie industry.
 
-##Business Understanding
+## Business Understanding
 Key business questions include:
 
 What themes are currently popular among moviegoers?
@@ -12,7 +12,7 @@ How do factors like budget and language correlate with a movie's success?
 Are there any emerging trends or patterns in the film industry that Microsoft should capitalize on?
 Data Understanding and Analysis.
 
-###Description of Data
+### Description of Data
 The dataset contains comprehensive information on movies, including:
 
 Movie title
@@ -21,7 +21,7 @@ Box office revenue
 Release date
 Visualizations
 
-##Recommendations
+## Recommendations
 Based on the analysis conducted, the following recommendations are proposed for Microsoft's new movie studio venture:
 
 Partnerships for Revenue Maximization: Microsoft should consider partnering with Affirm studio to generate high domestic gross and also MPI and FUN studios for high foreign gross. Collaborations with established studios can leverage their expertise and resources to enhance box office performance.
